@@ -15,6 +15,6 @@ Please join our [Support Server](https://ez-bot.xyz/r/discord) and contact ez#99
 
 
 ## Links
-[Discord Server](https://ez-bot.xyz/r/discord)
+[Discord Support Server](https://ez-bot.xyz/r/discord)
 
 [Invite ezBot](https://ez-bot.xyz/r/invite)
